@@ -1,4 +1,4 @@
-#wlan-diag.cmd
+# wlan-diag.cmd
 This is a basic windows command shell script.  It runs a number of built-in commands to collect various network data and build a Wifi diagnostic package on a Windows 10 based system.  This Script will colled
 
 1. Network Adapter Mac Addresses
