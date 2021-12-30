@@ -1,4 +1,4 @@
-#wlan-diag.cmd
+# wlan-diag.cmd
 This is a basic windows command shell script.  It runs a number of built-in commands to collect various network data and build a Wifi diagnostic package on a Windows 10 based system.  This Script will colled
 
 1. Network Adapter Mac Addresses
@@ -15,6 +15,9 @@ This is a basic windows command shell script.  It runs a number of built-in comm
 Simply Save the CMD file to your system.  Right click and run-as administrator
 Once the data has been collected a zip file diagnostic package is created at the root of C:
 This Zip Package will be open when the script is completed, or users can be instructed to submit to technical support via a ticketing system.
+<<<<<<< HEAD
 
 ### Notes
 This script could most likely be ported to powershell fairly easily. However as a cmd file the end user can simply right-click and run as admin, without the need for adjusting powershell execution policies etc.  Keeping it as a cmd file simply eases the process for end user support.
+=======
+>>>>>>> 97e458958e873e755dd567716142133d83051898
